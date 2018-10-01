@@ -1,8 +1,8 @@
 ## Welcome to RaspIVR
 
-Rasp-IVR a low cost system based on RaspAsterisk to support low cost IVR systems. It works with supported chan dongles and our APIs can be used to setup common IVR scenarios
+Rasp-IVR a low cost system based on Rasperry Asterisk to create low cost IVR systems. It works with supported [http://asterisk-service.com/en_US/page/chan-dongle-modems](chan dongles) and our APIs can be used to setup common IVR scenarios. We are working on building this page, watch this repository for updates.
 
 
 ### Contact
 
-Pl [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us at [vkamath@andrew.cmu.edu](vkamath@andrew.cmu.edu) and we’ll help you get early access. 
