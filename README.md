@@ -5,4 +5,4 @@ Rasp-IVR a low cost system based on Rasperry Asterisk to create low cost IVR sys
 
 ### Contact
 
-Contact us at [mail:vkamath@andrew.cmu.edu](vkamath@andrew.cmu.edu) and we’ll help you get early access. 
+Contact us at [vkamath@andrew.cmu.edu](mail:vkamath@andrew.cmu.edu) and we’ll help you get early access. 
