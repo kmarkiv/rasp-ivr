@@ -3,7 +3,7 @@
 Rasp-IVR a low cost system based on [Rasperry Asterisk](http://www.raspberry-asterisk.org/) to create low cost IVR systems. It works with supported [modems](http://asterisk-service.com/en_US/page/chan-dongle-modems) and our APIs can be used to setup common IVR scenarios. We are working on this page, please watch this repository for updates.
 
 ### Modems
-* I suggest you try to find supported modems in local hardware store [modems](http://asterisk-service.com/en_US/page/chan-dongle-modems) 
+* I suggest you try to find supported modems in local hardware store [(modem_list)](http://asterisk-service.com/en_US/page/chan-dongle-modems) 
 * If that does not work, you can buy an unlocked one on Ebay
 
 #### Modem (ebay)
