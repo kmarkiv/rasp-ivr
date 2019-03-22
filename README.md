@@ -4,10 +4,10 @@ Rasp-IVR a low cost system based on [Rasperry Asterisk](http://www.raspberry-ast
 
 ### Modems
 * I suggest you try to find supported modems in local hardware store [modems](http://asterisk-service.com/en_US/page/chan-dongle-modems) 
-* If that does not work, you can buy it on Ebay
+* If that does not work, you can buy an unlocked one on Ebay
 
 #### Modem (ebay)
-** Search for "unlocked chan dongle" on eBay, it should help you find modems compatible with Asterisk and RasPIvr  
+Search for **"unlocked chan dongle"** on eBay, it should help you find modems compatible with Asterisk and RasPIvr  
 
 If I remember correctly, I bought this 
 https://www.ebay.com/itm/Unlocked-Huawei-K3765-3G-900-2100-Voice-Support-for-Asterisk-chan-dongle-US-Ship/222964494049?hash=item33e9b82ee1:g:cCIAAOSwugha60Jj&frcectupt=true
